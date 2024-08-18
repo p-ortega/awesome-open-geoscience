@@ -101,6 +101,7 @@ Awesome software projects sub-categorized by focus.
 - [pyGeoPressure](https://pygeopressure.readthedocs.io/en/latest) – ![Python](media/icon/python.png) Pore pressure prediction using well log data and seismic velocity data.
 - [pyGIMLi](https://www.pygimli.org) – ![Python](media/icon/python.png) ![C++](media/icon/cplusplus.png) Multi-method library for solving inverse and forward tasks related to geophysical problems.
 - [PyGMI](https://patrick-cole.github.io/pygmi/pygmi.html)– ![Python](media/icon/python.png) It is a modelling and interpretation suite aimed at magnetic, gravity and other datasets.
+- [Phydrus](https://github.com/phydrus/phydrus) – ![Python](media/icon/python.png)  Python implementation of the HYDRUS-1D unsaturated zone model.
 - [PyLops](https://pylops.readthedocs.io/en/latest) – ![Python](media/icon/python.png) Linear Operators with some geophysics/seismic modules (e.g., pre- and post-stack AVO inversion, deconvolution, Marchenko redatuming, Radon filtering).
 - ![Awesome](media/icon/awesome.png) [PyMT](https://github.com/csdms/pymt) – ![Python](media/icon/python.png) Python toolkit for coupling models and datasets that expose the [Basic Model Interface (BMI)](https://bmi.readthedocs.io/en/latest).
 - [PySIT](http://pysit.org) – ![Python](media/icon/python.png) A Toolbox for seismic inversion and seismic imaging.
